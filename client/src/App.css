@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+#name {
+  width: 300px;
+  height: 40px;
+  border: 2px solid black;
+  margin: 15px 0px;
+  font-size: 1.1rem;
+}
+
+#key {
+  width: 300px;
+  height: 40px;
+  border: 2px solid black;
+  font-size: 1.1rem;
+}
+
+.App button {
+  padding: 5px 27px;
+  font-size: 1.21rem;
+  margin: 10px 0px;
+  border: 2px solid black;
+}
+
+.room_interface {
+  margin: 10px;
+  border: 2px solid black;
+  padding: 15px;
+}
+

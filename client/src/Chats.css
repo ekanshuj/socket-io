@@ -1,0 +1,60 @@
+h2 {
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+#chats {
+  width: 300px;
+  height: 40px;
+  border: 2px solid black;
+  margin: 15px 0px;
+  font-size: 1.1rem;
+}
+
+.chats__info button {
+  padding: 5px 27px;
+  font-size: 1.21rem;
+  margin: 0px 10px;
+  border: 2px solid black;
+}
+
+.messages {
+  border: 2px solid black;
+  padding: 15px;
+}
+
+.messages h2 {
+  margin-bottom: 5px;
+}
+
+.msg_body {
+  border: 3px solid black;
+  height: 400px;
+  position: relative;
+}
+
+.mssgs {
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  padding: 5px 10px;
+  margin-left: 10px;
+  border: 2px solid black;
+  margin-bottom: 10px;
+  border-radius: 15px;
+  position: relative;
+  color: ghostwhite;
+  font-weight: 200;
+  background: #2e4360;
+}
+
+#msg-data {
+  font-size: 1.55rem;
+  float: left;
+}
+
+#time {
+  float: right;
+  margin-left: 10px;
+}
